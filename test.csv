@@ -1,12 +1,12 @@
 Customer,Email,Name,Gender
 Srthsrnsdgfnd,Sjsrtjdhr,sethsrthrth,SREG
 AERHAERHAERH,aerh,rsth,SHRESER
-Ndfhgndfghnd,ryj,srtjh,FTYSERAERSDRT
+Ndfhgndfghnd,ryj,srtjh,Changed gender
 AERHSETH,jy,sryjtsrtj,TYUGK
 STSERHA,ryut,srtjaerg,ESHR
 Dvsdfv,fylu,aerwT,ARGAZWERG
 Gdndfghn,"Dgj,",AERH,ARGDRHN
-Fgndfgn,dhmg,AETHJ,JDGNERH
+Fgndfgn,Changed email,AETHJ,JDGNERH
 serth,dsrym,SDFGJ,RFES
 srth,srgj,SFH,RH
 drgnd,stj,FUK,HGRETSER
@@ -20,3 +20,6 @@ Rtjdrj,f,YJETYJ,SETH
 Jilfgkh,dhf,RTUK,SEHTSEHT
 dfhgm,dfhn,FTYK,SRTH
 dfhdfhgndfhm,dfgn,DFH,SERHSETH
+New customer,Ncemail,Ncname,Ncgender
+New customer2,Ncemail2,Ncname2,Ncgender2
+New customer3,Ncemail3,Ncname3,Ncgender3
